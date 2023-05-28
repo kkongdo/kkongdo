@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C샵-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 <p align="left">Tools</p>
