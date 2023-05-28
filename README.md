@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=150&section=header&text&fontSize=90)
-# Kong Do Hyeon😉
+# Do Hyeon Kong😉
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A2C5EF&title_bg=%234D89F9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                       
 <h2 align="left">💻Tech Stack💻</h2>
 
