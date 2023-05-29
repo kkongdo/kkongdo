@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=150&section=header&text&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=200&section=header&text=Welcome&fontSize=50)
 # Do Hyeon Kong😉
  +  **👨🏻‍💻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃 🇰🇷**
  +  **🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴(𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗜𝗧)**
@@ -9,7 +9,7 @@
 <p align="left" font="bold">Platforms & Languages</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C샵-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C♯-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=sql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
