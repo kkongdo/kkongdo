@@ -3,26 +3,23 @@
  +  **👨🏻‍💻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃 🇰🇷**
  +  **🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴(𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗜𝗧)**
  +  **🪪 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴, 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝘆𝘀𝘁𝗲𝗺 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻**
- +    ✏️ I’m currently learning Algorithm & Data Architecture             
+ +    👀 I’m currently learning Algorithm & Data Architecture             
 <h2 align="left">📚Tech Stack📚</h2>
-
-<p align="left" font="bold">Platforms & Languages</p>
+<b align="left" font="bold">Platforms & Languages</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/C♯-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=sql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
-<p align="left">Tools</p>
+<b align="left">Tools</b>
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>&nbsp 
-  <p align="left">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  </p>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
 </p>
 <h2 align="left">👀SNS👀</h2>
 <p align="left">
