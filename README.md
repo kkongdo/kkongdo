@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
 </p>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact"><br>
 <h2 align="left">👀SNS👀</h2>
 <p align="left">
   <a href="https://www.instagram.com/dev_kkong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
