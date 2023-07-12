@@ -1,6 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=200&section=header&text=HelloWorld😊&fontSize=50)
-# Do Hyeon Kong is...😉
- +  **🎓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗠𝗲𝗱𝗶𝗰𝗮𝗹 𝗜𝗧**       
 <h2 align="left">📚Tech Stack📚</h2>
 <b align="left" font="bold">Platforms & Languages</b>
 <p align="left">
