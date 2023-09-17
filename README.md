@@ -4,14 +4,17 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/C♯-5C2D91?style=flat-square&logo=C#&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=sql&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/SQL-3178C6?style=flat-square&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 </p>
 <b align="left">Tools</b>
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
