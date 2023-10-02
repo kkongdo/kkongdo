@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>
 </p>
 
-### 💡 My Most Used Language 💡
+### 💡My Most Used Language💡
 <a href="https://github.com/KKongDo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact&show_icons=false&show_owner=KKongDo&hide_title=false&theme=vue&hide=false" />
   </a>
