@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=200&section=header&text=HelloWorld😊&fontSize=50)
-<h2 align="left">📚Tech Stack📚</h2>
+<h2 align="left" font-color = "black">📚Tech Stack📚</h2>
 <b align="left" font="bold">Platforms & Languages</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openJDK&logoColor=white"/>
