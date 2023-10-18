@@ -26,7 +26,6 @@
   </a>
 <h2 align="left">👀SNS👀</h2>
 <p align="left">
-  <a href="https://www.instagram.com/dev_kkong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKongDo%2Fhit-counter&count_bg=%238078A1&title_bg=%23483C6B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
