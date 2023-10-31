@@ -24,7 +24,7 @@
 <a href="https://github.com/KKongDo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact&show_icons=false&show_owner=KKongDo&hide_title=false&theme=vue&hide=false" />
   </a>
-<h2 align="left">👀SNS👀</h2>
+<h2 align="left">👀Visiting👀</h2>
 <p align="left">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKongDo%2Fhit-counter&count_bg=%238078A1&title_bg=%23483C6B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
