@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 </p>
