@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=200&section=header&text=HelloWorld😊&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=323232&height=200&section=header&text=HelloWorld😊&fontSize=50)
 <h2 align="left">📚Tech Stack📚</h2>
 <b align="left" font="bold">Languages</b>
 <p align="left">
@@ -28,4 +28,4 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKongDo%2Fhit-counter&count_bg=%238078A1&title_bg=%23483C6B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=4B4B77&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=323232&height=150&section=footer)
