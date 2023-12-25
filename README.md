@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
 </p>
 <a href="https://github.com/KKongDo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact&show_icons=false&show_owner=KKongDo&hide_title=false&theme=vue&hide=false" />
