@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=323232&height=200&section=header&text=HelloWorld😊&fontSize=50)
-<h2 align="left">📚Tech Stack📚</h2>
+<h2 align="left">💻Tech Stack💻</h2>
 <b align="left" font="bold">Languages</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
@@ -19,9 +19,8 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
 </p>
-<h2 align="left">💡My Most Used Language💡</h2>
 <a href="https://github.com/KKongDo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact&show_icons=false&show_owner=KKongDo&hide_title=false&theme=vue&hide=false" />
-  </a>
+</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=323232&height=150&section=footer)
