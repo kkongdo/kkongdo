@@ -21,8 +21,9 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
 </p>
-<a href="https://github.com/KKongDo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKongDo&layout=compact&show_icons=false&show_owner=KKongDo&hide_title=false&theme=vue&hide=false" />
-</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&hide_progress=false)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkong_do)](https://solved.ac/kkong_do)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=323232&height=150&section=footer)
