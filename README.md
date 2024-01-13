@@ -11,7 +11,7 @@
 - KB국민은행 IT아카데미 IT's Your Life 4기 (2023.07 - 2023.09)
 
 ## 🏆 Awards
-- 가톨릭관동대학교 제64회 졸업식 우등상[수석졸업] (2023.02)
+- Catholic Kwandong Univ. 제64회 졸업식 우등상[수석졸업] (2023.02)
 </details>
 
 ## 📚 Tech Stack</h2>
