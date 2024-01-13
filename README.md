@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat&logo=sql&logoColor=white"/>
 </p>
 
-<b align="left">Tools</b>
+<b align="left">Tools & Platforms</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
