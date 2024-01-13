@@ -25,6 +25,6 @@
 - - -
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&hide_progress=false)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkong_do)](https://solved.ac/kkong_do)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)](https://solved.ac/kkongdo)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=323232&height=150&section=footer)
