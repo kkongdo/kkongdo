@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=323232&height=200&section=header&text=HelloWorld😊&fontSize=50)
 
-## 👨🏻‍💻 Dohyeon's Profile👨🏻‍💻
+## 👨🏻‍💻 Dohyeon's Profile
 <details>
 <summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
 
@@ -14,7 +14,7 @@
 - 가톨릭관동대학교 제64회 졸업식 우등상[수석졸업] (2023.02)
 </details>
 
-<h2 align="left">💻Tech Stack💻</h2>
+<h2 align="left">📚 Tech Stack</h2>
 <b align="left" font="bold">Languages</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
