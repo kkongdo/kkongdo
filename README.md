@@ -4,18 +4,18 @@
 <details>
 <summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
 
-## 🎓 Education
+## 🎓 Graduation
 - Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
     
 ## 🎯 Experience
-- KB국민은행 IT아카데미 IT's Your Life 4기 (2023.07 - 2023.09)
+- KB국민은행 IT아카데미 IT's Your Life 4th (2023.07 - 2023.09)
 
 ## 🏆 Awards
 - Catholic Kwandong Univ. 제64회 졸업식 우등상[수석졸업] (2023.02)
 </details>
 
 ## 📚 Tech Stack</h2>
-<b align="left" font="bold">Languages</b>
+<b align="left">Languages</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
@@ -25,16 +25,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat&logo=sql&logoColor=white"/>
 </p>
+
 <b align="left">Tools</b>
 <p align="left">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
 </p>
 
