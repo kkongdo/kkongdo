@@ -1,4 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=323232&height=200&section=header&text=HelloWorld😊&fontSize=50)
+
+## 👨🏻‍💻 Dohyeon's Profile👨🏻‍💻
+<details>
+<summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
+
+## 🎓 Education
+- Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
+    
+## 🎯 Experience
+- KB국민은행 IT아카데미 IT's Your Life 4기 (2023.07 - 2023.09)
+
+## 🏆 Awards
+- 가톨릭관동대학교 제64회 졸업식 우등상 (2023.02)
+</details>
+
 <h2 align="left">💻Tech Stack💻</h2>
 <b align="left" font="bold">Languages</b>
 <p align="left">
