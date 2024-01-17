@@ -4,11 +4,9 @@
 <details>
 <summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
 
-## 🎓 Graduation
-- Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
-    
-## 🎯 Experience
+## 🎓 Education
 - KB국민은행 IT아카데미 IT's Your Life 4th (2023.07 - 2023.09)
+- Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
 
 ## 🏆 Awards
 - Catholic Kwandong Univ. 제64회 졸업식 우등상[수석졸업] (2023.02)
