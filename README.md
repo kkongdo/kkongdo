@@ -10,6 +10,13 @@
 
 ## 🏆 Awards
 - Catholic Kwandong Univ. 제64회 졸업식 우등상[수석졸업] (2023.02)
+
+## 🌱 Certificates
+- 정보처리기사
+- 전자계산기조직응용기사
+- SQLD
+- 네트워크관리사 2급
+- 컴퓨터활용능력 1급
 </details>
 
 ## 📚 Tech Stack</h2>
