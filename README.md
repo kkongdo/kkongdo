@@ -9,7 +9,7 @@
 - Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
 
 ## 🏆 Awards
-- Catholic Kwandong Univ. 제64회 졸업식 우등상[수석졸업] (2023.02)
+- 가톨릭관동대학교 제64회 졸업식 우등상[수석졸업] (2023.02)
 
 ## 🌱 Certificates
 - 정보처리기사
