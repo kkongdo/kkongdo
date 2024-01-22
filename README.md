@@ -5,7 +5,7 @@
 <summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
 
 ## 🎓 Education
-- KB국민은행 IT아카데미 IT's Your Life 4th (2023.07 - 2023.09)
+- KB국민은행 IT 아카데미 IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
 - Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
 
 ## 🏆 Awards
