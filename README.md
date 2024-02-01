@@ -4,7 +4,7 @@
 
 ## 🎓 Education
 - KB국민은행 IT 아카데미 IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
-- Catholic Kwandong Univ. Medical IT (2017.02 - 2023.02)
+- 가톨릭관동대학교 의료융합대학 의료IT학과 (2017.02 - 2023.02)
 
 ## 🏆 Awards
 - 가톨릭관동대학교 제64회 학위수여식 우등상(수석졸업) (2023.02)
