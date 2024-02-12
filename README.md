@@ -18,7 +18,7 @@
 </details>
 
 ## 📚 Tech Stack</h2>
-<b align="left">Languages</b>
+<b align="left">Language</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/SQL-3178C6?style=flat&logo=sql&logoColor=white"/>
 </p>
 
-<b align="left">Tools & Platforms</b>
+<b align="left">Tool</b>
 <p align="left">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/></br>
+</p>
+<b align="left">Database</b>
+<p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
 </p>
