@@ -3,7 +3,8 @@
 <summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
 
 ## 🎓 Education
-- KB국민은행 IT 아카데미 IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
+- SK플래닛 T아카데미 ASAC 5기 (2024.03 - 2024.09, ⌛ 920h)
+- KB국민은행 IT 아카데미 IT's Your Life 4기 (2023.07 - 2023.09, ⌛ 480h)
 - 가톨릭관동대학교 의료융합대학 의료IT학과 (2017.02 - 2023.02)
 
 ## 🏆 Awards
