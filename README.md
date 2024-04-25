@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-3178C6?style=flat&logo=sql&logoColor=white"/>
 
 - <b>Tool</b>
   
