@@ -19,7 +19,7 @@
 </details>
 
 ## 📚 Tech Stack</h2>
-- <b>Skill</b>
+- <b>Skills</b>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
-- <b>Tool</b>
+- <b>Tools</b>
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
