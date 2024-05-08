@@ -19,28 +19,22 @@
 </details>
 
 ## 📚 Tech Stack</h2>
-- <b>Language</b>
+- <b>Skill</b>
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
 - <b>Tool</b>
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.Net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-
-- <b>Database</b>
-
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 - - -
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&hide_progress=false)
