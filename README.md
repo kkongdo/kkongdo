@@ -1,6 +1,4 @@
-## 👨🏻‍💻 Dohyeon's Profile
-<details>
-<summary><strong>🔬 Show  more about Dohyeon 🔬</strong></summary>
+# 👨🏻‍💻 Dohyeon's Profile
 
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
@@ -16,7 +14,7 @@
 - SQLD
 - 네트워크관리사 2급
 - 컴퓨터활용능력 1급
-</details>
+
 
 ## 📚 Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
