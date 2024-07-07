@@ -3,7 +3,7 @@
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
 - KB IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
-- Catholic Kwandong University - Bachelor Of Engineering In Medical IT (2017.02 - 2023.02)
+- Catholic Kwandong University - Bachelor of Engineering In Medical IT (2017.02 - 2023.02)
 
 ## 🏆 Awards
 - 가톨릭관동대학교 제64회 학위수여식 우등상(수석졸업) (2023.02)
