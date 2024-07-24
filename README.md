@@ -5,9 +5,9 @@
 - KB IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT (2017.02 - 2023.02)
 
-## 🔥 Experience
-- Softsquared Inc. Gridge 기능 개발 (2024.07 - ing)
-
+<details>
+<summary><strong>🔬 Show  more Information</strong></summary>
+  
 ## 🏆 Awards
 - 가톨릭관동대학교 제64회 학위수여식 우등상(수석졸업) (2023.02)
 
@@ -18,6 +18,10 @@
 - 네트워크관리사 2급
 - 컴퓨터활용능력 1급
 
+</details>
+
+## 🔥 Experience
+- Softsquared Inc. Gridge 기능 개발 (2024.07 - ing)
 
 ## 📚 Tech Stack
   - **BackEnd** : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
