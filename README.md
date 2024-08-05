@@ -1,4 +1,5 @@
-# 👨🏻‍💻 Dohyeon's Profile
+## 공도현 <em>Kong Dohyeon</em>
+👨🏻‍💻 Web Backend Developer
 
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
