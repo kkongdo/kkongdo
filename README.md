@@ -1,5 +1,5 @@
 ## 공도현 <em>Kong Dohyeon</em>
-👨🏻‍💻 Web Backend Developer
+👨🏻‍💻 Web Backend Developer & Medical Information Software Engineer
 
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
