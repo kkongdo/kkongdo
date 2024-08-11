@@ -1,6 +1,9 @@
 ## 공도현 <em>Kong Dohyeon</em>
 👨🏻‍💻 Web Backend Developer & Medical Information Software Engineer
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://quickest-cup-9f4.notion.site/Dohyeon-Kong-415545a2031e4b95a295ca8bd44ddb5f?pvs=74)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@kkong_do/posts)
+
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
 - KB IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
