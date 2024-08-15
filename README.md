@@ -18,5 +18,4 @@
 
 - - -
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&hide_progress=false)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)](https://solved.ac/kkongdo)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkongdo)
