@@ -1,5 +1,5 @@
 ## 공도현 <em>Kong Dohyeon</em>
-👨🏻‍💻 Web Backend Developer & Medical Information Software Engineer
+👨🏻‍💻 Backend Developer & Medical Information Software Engineer
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://quickest-cup-9f4.notion.site/Dohyeon-Kong-415545a2031e4b95a295ca8bd44ddb5f?pvs=74)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@kkong_do/posts)
@@ -17,5 +17,5 @@
   - **DevOps** : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white"/>
 
 - - -
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkongdo&layout=compact&theme=dark&hide_progress=false)
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkongdo)
