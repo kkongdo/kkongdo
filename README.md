@@ -3,6 +3,7 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://quickest-cup-9f4.notion.site/Dohyeon-Kong-415545a2031e4b95a295ca8bd44ddb5f?pvs=74)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@kkong_do/posts)
+![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)
 
 ## 🎓 Education
 - SK planet ASAC 5th (2024.03 - ing)
