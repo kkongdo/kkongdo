@@ -6,12 +6,12 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)
 
 ## 🎓 Education
-- SK planet ASAC 5th (2024.03 - ing)
+- SK planet ASAC 5th (2024.03 - 2024.09, ⌛ 920h)
 - KB IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT (2017.02 - 2023.02)
 
 ## 🔥 Experience
-- Softsquared Inc. Gridge Server Development (2024.07 - ing)
+- Softsquared Inc. Gridge Server Development (2024.07 - 2024.09)
 
 ## 📚 Tech Stack
   - **BackEnd** : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
