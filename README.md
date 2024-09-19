@@ -12,6 +12,7 @@
 
 ## 🔥 Experience
 - Softsquared Inc. Gridge Server Development (2024.07 - 2024.09)
+- HIRA. International Symposium and Training Course Supporters (2021.10)
 
 ## 📚 Tech Stack
   - **BackEnd** : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
