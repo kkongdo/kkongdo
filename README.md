@@ -6,7 +6,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)
 
 ## 🎓 Education
-- SK planet Web Full-Stack Developer Course 5th (2024.03 - 2024.09, ⌛ 920h)
+- SK planet ASAC Web Full-Stack Developer Course 5th (2024.03 - 2024.09, ⌛ 920h)
 - KB IT's Your Life 4th (2023.07 - 2023.09, ⌛ 480h)
 - Catholic Kwandong University - Bachelor of Engineering In Medical IT (2017.02 - 2023.02)
 
