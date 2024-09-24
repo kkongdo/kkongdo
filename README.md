@@ -1,4 +1,4 @@
-## 공도현 <em>Kong Dohyeon</em>
+## 공도현 <em>Dohyeon Kong</em>
 👨🏻‍💻 Web Backend Developer
 
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://quickest-cup-9f4.notion.site/Backend-Developer-587ea5742d54476686492bcf314f0387)
