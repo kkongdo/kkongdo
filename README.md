@@ -1,8 +1,5 @@
 ## 공도현 <em>Dohyeon Kong</em>
-👨🏻‍💻 Web Backend Developer
-
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://quickest-cup-9f4.notion.site/Backend-Developer-587ea5742d54476686492bcf314f0387)
-![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkongdo)
+👨🏻‍💻 Web Application Developer
 
 ## 🎓 Education
 - SK planet ASAC 5th - Web Full Stack Developer Course `2024.03 - 2024.09, ⌛ 920h`
