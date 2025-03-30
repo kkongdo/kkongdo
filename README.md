@@ -1,5 +1,5 @@
 ## 공도현 <em>Dohyeon Kong</em>
-👨🏻‍💻 Web Application Developer & Information Security
+👨🏻‍💻 Web Application Developer, Information Security
 
 ## 🎓 Education
 - SK planet ASAC 5th - Web Full Stack Developer Course `2024.03 - 2024.09, ⌛ 920h`
