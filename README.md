@@ -4,6 +4,9 @@
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://universal-quark-200.notion.site/Backend-Developer-1586f48c3cea814e94efd34027492318?pvs=4)
 [![tistory](https://img.shields.io/badge/Tech%20Blog-F36D5D?style=flat&logo=tistory&logoColor=white)](https://kkongdo.tistory.com/)
 
+## 🛸 Career
+- NHIS(National Health Insurance Service) `2024.12 -`
+
 ## 🎓 Education
 - SK planet ASAC 5th - Web Full Stack Developer Course `2024.03 - 2024.09, ⌛ 920h`
 - KB IT's Your Life 4th `2023.07 - 2023.09, ⌛ 480h`
