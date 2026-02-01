@@ -5,7 +5,7 @@
 [![tistory](https://img.shields.io/badge/Tech%20Blog-F36D5D?style=flat&logo=tistory&logoColor=white)](https://kkongdo.tistory.com/)
 
 ## 🛸 Career
-- NHIS(National Health Insurance Service) `2024.12 -`
+- National Health Insurance Service(NHIS, Korea) `2024.12 -`
 
 ## 🎓 Education
 - SK planet ASAC 5th - Web Full Stack Developer Course `2024.03 - 2024.09, ⌛ 920h`
