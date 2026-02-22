@@ -1,5 +1,5 @@
 ## 공도현 <em>Dohyeon Kong</em>
-👨🏻‍💻 Web Application Developer
+👨🏻‍💻 Web Backend Developer
 <br>
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://universal-quark-200.notion.site/Backend-Developer-1586f48c3cea814e94efd34027492318?pvs=4)
 [![tistory](https://img.shields.io/badge/Tech%20Blog-F36D5D?style=flat&logo=tistory&logoColor=white)](https://kkongdo.tistory.com/)
